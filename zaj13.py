@@ -92,5 +92,6 @@ def gwiazdka(liczba):
         
 liczba=int(input())
 print(gwiazdka)
+print ("AC MILAN WYGRA LIGĘ MISTRZÓW")
 
 
